@@ -1,4 +1,3 @@
-# Whatsapp ChatBot 
 # WhatsApp Auto-Responder Bot
 
 This project automates WhatsApp Web to read chats and reply using OpenAI's GPT-3.5.
@@ -31,5 +30,5 @@ python main.py
 
 ---
 
-Made by relaxmsz.in 🌟
+relaxmsz.in  
 
