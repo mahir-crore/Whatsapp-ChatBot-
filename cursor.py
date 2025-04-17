@@ -1,15 +1,22 @@
 import pyautogui
 
+
+
+print (" Please set all curser according your screen size before run the code ")
+
 while True:
     a = pyautogui.position()
     print(a)
 
-print (" Please set all curser according your screen size before run the code ")
+
+
+
+
+
+## Set all curser according to your sccreen 
+
+
 first_chat_click = (280, 520)
-
-
-
-
 chat_copy_drag = "(972,202 to 2213, 1278)"
 first_msg_chatgpt= (515, 347)
 chatgpt_msgs= (574,621)
